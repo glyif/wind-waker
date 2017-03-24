@@ -1,9 +1,9 @@
-<img src="https://www.holbertonschool.com/assets/holberton-logo-1cc451260ca3cd297def53f2250a9794810667c7ca7b5fa5879a569a457bf16f.png" alt="Holberton logo">
+<p align="center>
+<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=0ahUKEwigoPfw6u_SAhUHxFQKHfK9CbIQjRwIBw&url=http%3A%2F%2Fzelda.wikia.com%2Fwiki%2FKing_of_Red_Lions&psig=AFQjCNFxfW5yWZCr88Qy2fTvXfqFEZGVcw&ust=1490468742351099" alt="wind-waker" />
+</p>
 
 # wind-waker : "link"ed list reversal
 ## Author: Bobby Yang (Batch 2)
-
-<img src="https://files.slack.com/files-pri/T0ENXA7A8-F4NURGNRH/linkedlist.png" alt="Linked List">
 
 ## Synopsis
 This program is an expansion of Holberton School's Linked List assignment. This program creates a regular linked list, prints it out then reverses the string and prints it out.
