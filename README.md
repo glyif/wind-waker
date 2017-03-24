@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://vignette2.wikia.nocookie.net/zelda/images/7/70/Link_and_the_King_of_Red_Lions_Artwork.png/revision/latest?cb=20081017024706" style="width: 200px;" alt="windwaker">
+<img src="http://vignette2.wikia.nocookie.net/zelda/images/7/70/Link_and_the_King_of_Red_Lions_Artwork.png/revision/latest?cb=20081017024706" width="100" alt="windwaker">
 </p>
 
 # wind-waker : "link"ed list reversal
