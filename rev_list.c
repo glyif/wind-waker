@@ -23,12 +23,15 @@ link *rev_list(link *head)
 		/* this sets the `next` pointer equal to the curr (initally null) */
 		head->next = curr;
 		
-		/* this changes the `curr` to the current head */
+		/* this changes to the next head of the list */
 		curr = head;
 
 		/* finally, the new head is set to the tmp */
 		head = tmp;
 	}
 
+	/* exits out of loop when head == NULL */
+	
+	/* returns new head */
 	return (curr);
 }

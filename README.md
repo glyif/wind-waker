@@ -3,7 +3,7 @@
 # wind-waker : "link"ed list reversal
 ## Author: Bobby Yang (Batch 2)
 
-<img src="https://holberton-students.slack.com/files/bobstermyang/F4NURGNRH/linkedlist.png" alt="Linked List">
+<img src="https://files.slack.com/files-pri/T0ENXA7A8-F4NURGNRH/linkedlist.png" alt="Linked List">
 
 ## Synopsis
 This program is an expansion of Holberton School's Linked List assignment. This program creates a regular linked list, prints it out then reverses the string and prints it out.
