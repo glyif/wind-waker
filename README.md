@@ -61,4 +61,4 @@ $ ./wind-waker
 ```
 
 ## TODO
-- [ ] Get Julien to say I did a good job ;)
+- [x] Get Julien to say I did a good job ;)
